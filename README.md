@@ -26,7 +26,7 @@ The demonstration is recorded in one continuous, unedited take using the live pr
 
 **Demo Video**
 
-*(YouTube link will be added here.)*
+https://youtu.be/0lSbeNFU4Wo
 
 ---
 
@@ -34,9 +34,7 @@ The demonstration is recorded in one continuous, unedited take using the live pr
 
 A complete interactive overview of the system architecture is available here:
 
-**https://bellabilling.zaderflo.com/capstone**
-
-*(Update this link once the architecture page is live.)*
+**https://bellabilling.zaderflo.com**
 
 ---
 
