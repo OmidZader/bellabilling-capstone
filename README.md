@@ -55,7 +55,7 @@ A complete interactive overview of the system architecture is available here:
 |--------|------------|
 | Voice Conversation | Vapi |
 | Workflow Orchestration | Make |
-| Language Model | LLM |
+| Language Model | OpenAI |
 | Review Dashboard | Google Sheets |
 | Document Generation | Google Docs |
 | Customer Delivery | Gmail |
