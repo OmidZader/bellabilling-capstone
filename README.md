@@ -96,6 +96,22 @@ bellabilling-capstone/
 
 ---
 
+## Reproducing the Demonstration
+
+This repository documents the architecture and implementation of the BellaBilling™ capstone.
+
+The live interactive architecture is available at:
+
+https://bellabilling.zaderflo.com
+
+The demonstration video is available at:
+
+https://youtu.be/0lSbeNFU4Wo
+
+Production infrastructure, API keys, credentials, prompts, and proprietary automation workflows have intentionally been omitted.
+
+---
+
 ## Commercial Notice
 
 BellaBilling™ is a commercial product developed by ZaderFlo Systems.
